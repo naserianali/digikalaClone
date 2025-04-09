@@ -1,5 +1,5 @@
 
-# Digikala cloen
+# Digikala Clone
 
 نمونه مشابه به سایت دیجی کالا.
 
